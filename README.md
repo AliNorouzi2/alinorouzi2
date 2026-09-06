@@ -5,7 +5,6 @@ Computer Engineering student, focused on Machine Learning & AI. Building project
 - 🔭 Currently learning: deep learning foundations (autograd, neural nets from scratch)
 - 🌱 Interests: Machine Learning, PyTorch, full-stack web dev
 - 🎯 Goal: MS/PhD at a top US institution
-- 📫 Reach me on LinkedIn or check out my YouTube below
 
 ## 🔗 Connect with me
 

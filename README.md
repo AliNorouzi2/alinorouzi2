@@ -27,8 +27,8 @@
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-00A98F?style=flat-square)
 ![Local AI](https://img.shields.io/badge/Local%20AI-2E8B57?style=flat-square)
 <!-- ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)-->
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Anthropic](https://img.shields.io/badge/Anthropic-D87758?style=flat-square&logo=anthropic&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)

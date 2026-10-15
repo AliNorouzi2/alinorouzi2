@@ -4,7 +4,6 @@
 
 - 🔭 Currently learning: deep learning foundations (autograd, neural nets from scratch)
 - 🌱 Interests: Machine Learning, PyTorch, full-stack web dev
-- 🎯 Goal: MS/PhD at a top US institution
 
 ## 🔗 Connect with me
 

@@ -25,6 +25,7 @@
 ![NLP](https://img.shields.io/badge/NLP-12261E?style=flat-square)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-00A98F?style=flat-square)
 ![Local AI](https://img.shields.io/badge/Local%20AI-2E8B57?style=flat-square)
+![OOP](https://img.shields.io/badge/OOP-5C2D91?style=flat-square)
 <!-- ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)-->
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
